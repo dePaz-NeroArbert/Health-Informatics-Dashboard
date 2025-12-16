@@ -1,259 +1,259 @@
-Location,Year,Poverty_Incidence,Teenage_Birth_Rate
-NCR,2018,18.4,5.28
-1st District,2018,42.9,12.96
-2nd District,2018,33.6,10.49
-3rd District,2018,27.9,7.27
-4th District,2018,9.1,4.82
-Abra,2018,9.1,5.12
-Agusan del Norte,2018,5.0,4.87
-Agusan del Sur,2018,39.3,13.41
-Aklan,2018,28.0,6.95
-Albay,2018,32.6,8.74
-Antique,2018,3.4,3.62
-Apayao,2018,43.7,13.7
-Aurora,2018,37.9,12.24
-Basilan,2018,11.5,10.66
-Bataan,2018,10.2,5.41
-Batanes,2018,10.3,6.28
-Batangas,2018,15.4,7.29
-Benguet,2018,24.8,9.18
-Biliran,2018,20.9,6.74
-Bohol,2018,14.9,6.86
-Bukidnon,2018,28.5,7.97
-Bulacan,2018,8.4,3.75
-Cagayan,2018,14.9,5.0
-Camarines Norte,2018,18.1,6.64
-Camarines Sur,2018,21.9,10.94
-Camiguin,2018,35.9,8.17
-Capiz,2018,11.0,5.78
-Catanduanes,2018,24.4,5.67
-Cavite,2018,27.7,8.21
-Cebu,2018,4.5,4.75
-Compostela Valley,2018,28.3,9.18
-Cotabato,2018,9.7,2.82
-Davao del Norte,2018,5.3,2.24
-Davao del Sur,2018,42.8,13.73
-Davao Occidental,2018,43.5,11.79
-Davao Oriental,2018,36.9,11.54
-Dinagat Islands,2018,15.4,5.93
-Eastern Samar,2018,6.7,2.69
-Guimaras,2018,31.6,13.11
-Ifugao,2018,21.2,8.25
-Ilocos Norte,2018,7.7,1.0
-Ilocos Sur,2018,23.5,8.17
-Iloilo,2018,4.0,2.0
-Isabela,2018,41.1,13.57
-Kalinga,2018,13.5,4.19
-La Union,2018,30.7,9.49
-Laguna,2018,15.7,6.69
-Lanao del Norte,2018,24.6,9.45
-Lanao del Sur,2018,25.7,6.63
-Leyte,2018,10.4,4.09
-Maguindanao,2018,43.7,12.21
-Marinduque,2018,35.4,9.88
-Masbate,2018,42.4,15.26
-Misamis Occidental,2018,40.5,12.74
-Misamis Oriental,2018,27.9,7.09
-Mountain Province,2018,41.7,13.8
-Negros Occidental,2018,6.3,6.75
-Negros Oriental,2018,10.8,6.26
-Northern Samar,2018,4.4,1.0
-Nueva Ecija,2018,16.3,5.36
-Nueva Vizcaya,2018,19.0,8.66
-Occidental Mindoro,2018,14.0,4.45
-Oriental Mindoro,2018,37.7,12.1
-Palawan,2018,17.7,7.58
-Pampanga,2018,14.4,4.22
-Pangasinan,2018,25.6,8.3
-Quezon,2018,8.5,1.0
-Quirino,2018,36.6,9.61
-Rizal,2018,5.7,3.04
-Romblon,2018,44.4,11.24
-Samar,2018,35.3,13.28
-Sarangani,2018,10.9,2.59
-Siquijor,2018,2.7,2.02
-Sorsogon,2018,37.2,11.49
-South Cotabato,2018,32.5,12.3
-Southern Leyte,2018,33.5,8.22
-Sultan Kudarat,2018,35.3,12.56
-Sulu,2018,5.6,3.43
-Surigao del Norte,2018,17.7,4.96
-Surigao del Sur,2018,7.4,4.55
-Tarlac,2018,39.2,12.09
-Tawi-Tawi,2018,29.0,8.35
-Zambales,2018,16.6,6.25
-Zamboanga del Norte,2018,5.2,2.72
-Zamboanga del Sur,2018,15.7,6.1
-Zamboanga Sibugay,2018,16.3,7.07
-NCR,2021,33.5,12.76
-1st District,2021,29.6,7.54
-2nd District,2021,40.2,15.25
-3rd District,2021,22.6,4.71
-4th District,2021,7.6,3.67
-Abra,2021,32.8,11.09
-Agusan del Norte,2021,34.8,11.13
-Agusan del Sur,2021,26.4,7.65
-Aklan,2021,35.3,10.5
-Albay,2021,23.5,7.13
-Antique,2021,24.7,7.29
-Apayao,2021,20.7,8.44
-Aurora,2021,3.6,3.43
-Basilan,2021,7.1,2.73
-Bataan,2021,3.8,4.31
-Batanes,2021,29.5,9.85
-Batangas,2021,15.9,7.18
-Benguet,2021,24.1,8.97
-Biliran,2021,41.1,11.02
-Bohol,2021,13.1,4.43
-Bukidnon,2021,19.9,8.11
-Bulacan,2021,34.6,11.57
-Cagayan,2021,12.2,5.02
-Camarines Norte,2021,5.8,3.62
-Camarines Sur,2021,14.8,7.62
-Camiguin,2021,9.4,3.45
-Capiz,2021,42.0,13.32
-Catanduanes,2021,36.8,10.91
-Cavite,2021,29.4,9.03
-Cebu,2021,39.5,13.53
-Compostela Valley,2021,36.7,12.4
-Cotabato,2021,10.4,5.83
-Davao del Norte,2021,40.4,14.07
-Davao del Sur,2021,25.4,8.39
-Davao Occidental,2021,36.8,12.23
-Davao Oriental,2021,40.6,11.68
-Dinagat Islands,2021,16.0,6.49
-Eastern Samar,2021,7.2,3.6
-Guimaras,2021,12.2,5.19
-Ifugao,2021,20.7,8.06
-Ilocos Norte,2021,37.3,10.09
-Ilocos Sur,2021,39.1,14.91
-Iloilo,2021,2.8,1.19
-Isabela,2021,24.2,6.23
-Kalinga,2021,20.2,8.8
-La Union,2021,11.9,6.17
-Laguna,2021,7.6,4.83
-Lanao del Norte,2021,16.8,7.15
-Lanao del Sur,2021,42.6,12.63
-Leyte,2021,16.2,4.71
-Maguindanao,2021,24.5,8.25
-Marinduque,2021,32.4,9.08
-Masbate,2021,18.0,7.95
-Misamis Occidental,2021,43.8,12.73
-Misamis Oriental,2021,43.4,11.61
-Mountain Province,2021,13.2,4.82
-Negros Occidental,2021,23.6,8.53
-Negros Oriental,2021,15.3,4.98
-Northern Samar,2021,14.6,4.42
-Nueva Ecija,2021,4.1,3.38
-Nueva Vizcaya,2021,28.4,9.47
-Occidental Mindoro,2021,23.9,7.21
-Oriental Mindoro,2021,4.7,2.47
-Palawan,2021,14.3,5.93
-Pampanga,2021,41.1,10.1
-Pangasinan,2021,12.7,3.06
-Quezon,2021,8.7,3.09
-Quirino,2021,23.3,7.51
-Rizal,2021,44.4,13.56
-Romblon,2021,12.8,7.41
-Samar,2021,31.1,11.05
-Sarangani,2021,34.9,10.48
-Siquijor,2021,12.6,5.12
-Sorsogon,2021,33.4,8.86
-South Cotabato,2021,18.1,6.5
-Southern Leyte,2021,29.4,8.91
-Sultan Kudarat,2021,29.4,9.84
-Sulu,2021,25.3,7.08
-Surigao del Norte,2021,6.3,4.36
-Surigao del Sur,2021,38.0,13.8
-Tarlac,2021,16.1,5.87
-Tawi-Tawi,2021,10.4,5.21
-Zambales,2021,4.2,4.09
-Zamboanga del Norte,2021,27.6,8.3
-Zamboanga del Sur,2021,31.3,10.16
-Zamboanga Sibugay,2021,3.2,2.82
-NCR,2023,24.3,8.21
-1st District,2023,12.1,3.87
-2nd District,2023,29.9,9.52
-3rd District,2023,9.9,5.22
-4th District,2023,31.9,12.14
-Abra,2023,18.9,8.17
-Agusan del Norte,2023,42.3,15.81
-Agusan del Sur,2023,8.3,2.94
-Aklan,2023,17.0,7.56
-Albay,2023,7.3,4.11
-Antique,2023,41.8,15.73
-Apayao,2023,39.8,10.73
-Aurora,2023,13.5,4.11
-Basilan,2023,30.5,8.74
-Bataan,2023,37.2,8.12
-Batanes,2023,26.1,7.74
-Batangas,2023,25.0,7.11
-Benguet,2023,12.8,5.42
-Biliran,2023,6.5,4.13
-Bohol,2023,40.6,14.97
-Bukidnon,2023,40.8,13.62
-Bulacan,2023,29.4,8.49
-Cagayan,2023,16.9,4.88
-Camarines Norte,2023,17.3,7.07
-Camarines Sur,2023,33.4,8.36
-Camiguin,2023,40.6,14.9
-Capiz,2023,40.2,13.82
-Catanduanes,2023,35.6,10.21
-Cavite,2023,29.8,6.88
-Cebu,2023,6.1,5.55
-Compostela Valley,2023,9.4,4.17
-Cotabato,2023,40.7,14.03
-Davao del Norte,2023,28.3,6.68
-Davao del Sur,2023,2.9,1.82
-Davao Occidental,2023,6.8,3.71
-Davao Oriental,2023,30.7,9.75
-Dinagat Islands,2023,2.7,2.0
-Eastern Samar,2023,9.3,5.27
-Guimaras,2023,25.8,6.85
-Ifugao,2023,31.9,9.76
-Ilocos Norte,2023,30.2,9.73
-Ilocos Sur,2023,12.0,5.78
-Iloilo,2023,32.8,11.26
-Isabela,2023,12.6,3.46
-Kalinga,2023,16.3,3.78
-La Union,2023,34.2,12.47
-Laguna,2023,30.1,10.03
-Lanao del Norte,2023,38.6,10.53
-Lanao del Sur,2023,30.4,11.94
-Leyte,2023,26.7,8.84
-Maguindanao,2023,6.5,5.39
-Marinduque,2023,18.1,6.63
-Masbate,2023,13.8,8.53
-Misamis Occidental,2023,12.9,7.85
-Misamis Oriental,2023,43.9,12.59
-Mountain Province,2023,19.2,8.26
-Negros Occidental,2023,40.4,13.07
-Negros Oriental,2023,29.3,11.38
-Northern Samar,2023,36.3,9.62
-Nueva Ecija,2023,23.9,8.99
-Nueva Vizcaya,2023,27.0,10.34
-Occidental Mindoro,2023,23.4,5.22
-Oriental Mindoro,2023,10.8,2.92
-Palawan,2023,33.2,7.24
-Pampanga,2023,14.4,5.2
-Pangasinan,2023,3.5,3.96
-Quezon,2023,29.9,11.74
-Quirino,2023,10.0,4.62
-Rizal,2023,42.5,15.06
-Romblon,2023,43.0,10.69
-Samar,2023,41.4,9.79
-Sarangani,2023,18.2,6.47
-Siquijor,2023,3.2,3.37
-Sorsogon,2023,42.0,12.44
-South Cotabato,2023,20.7,4.07
-Southern Leyte,2023,43.6,12.76
-Sultan Kudarat,2023,43.5,10.91
-Sulu,2023,38.8,12.69
-Surigao del Norte,2023,15.0,6.3
-Surigao del Sur,2023,18.9,5.31
-Tarlac,2023,38.7,10.9
-Tawi-Tawi,2023,16.0,4.4
-Zambales,2023,9.7,4.33
-Zamboanga del Norte,2023,26.2,9.97
-Zamboanga del Sur,2023,42.3,11.09
-Zamboanga Sibugay,2023,32.1,10.78
+Location,Year,Poverty_Incidence,Teenage_Birth_Rate,Risk_Level
+NCR,2018,21.2,8.25,Medium
+NCR,2021,21.9,8.12,Medium
+NCR,2023,19.5,6.28,Medium
+1st District,2018,43.6,13.32,High
+1st District,2021,45.0,13.65,High
+1st District,2023,38.1,11.54,High
+2nd District,2018,34.4,9.83,Medium
+2nd District,2021,36.4,8.92,Medium
+2nd District,2023,33.0,10.03,High
+3rd District,2018,31.2,8.94,Medium
+3rd District,2021,29.7,8.64,Medium
+3rd District,2023,29.3,9.21,Medium
+4th District,2018,10.4,5.21,Medium
+4th District,2021,13.4,6.22,Medium
+4th District,2023,9.2,4.26,Low
+Abra,2018,10.7,3.67,Low
+Abra,2021,13.7,5.72,Medium
+Abra,2023,10.2,4.57,Low
+Agusan del Norte,2018,5.2,3.31,Low
+Agusan del Norte,2021,8.8,3.8,Low
+Agusan del Norte,2023,6.1,4.16,Low
+Agusan del Sur,2018,42.5,11.98,High
+Agusan del Sur,2021,42.0,11.69,High
+Agusan del Sur,2023,35.8,10.35,High
+Aklan,2018,29.1,10.88,High
+Aklan,2021,30.8,9.51,Medium
+Aklan,2023,28.0,7.72,Medium
+Albay,2018,35.0,10.81,High
+Albay,2021,36.5,9.8,Medium
+Albay,2023,34.4,8.95,Medium
+Antique,2018,6.7,5.73,Medium
+Antique,2021,6.3,3.44,Low
+Antique,2023,5.0,3.19,Low
+Apayao,2018,41.5,11.68,High
+Apayao,2021,44.2,12.6,High
+Apayao,2023,41.4,12.85,High
+Aurora,2018,37.1,10.41,High
+Aurora,2021,41.5,10.65,High
+Aurora,2023,37.6,11.83,High
+Basilan,2018,11.1,5.09,Medium
+Basilan,2021,15.9,6.62,Medium
+Basilan,2023,10.6,3.78,Low
+Bataan,2018,13.1,5.61,Medium
+Bataan,2021,14.6,6.0,Medium
+Bataan,2023,10.3,4.94,Low
+Batanes,2018,12.8,4.74,Low
+Batanes,2021,17.1,6.65,Medium
+Batanes,2023,9.5,5.13,Medium
+Batangas,2018,15.7,6.59,Medium
+Batangas,2021,20.9,6.44,Medium
+Batangas,2023,17.6,6.71,Medium
+Benguet,2018,27.2,10.01,High
+Benguet,2021,27.6,7.97,Medium
+Benguet,2023,23.7,7.05,Medium
+Biliran,2018,22.2,7.65,Medium
+Biliran,2021,24.7,8.59,Medium
+Biliran,2023,21.3,8.35,Medium
+Bohol,2018,16.3,8.25,Medium
+Bohol,2021,19.6,6.12,Medium
+Bohol,2023,14.0,5.98,Medium
+Bukidnon,2018,29.1,9.48,Medium
+Bukidnon,2021,32.2,9.52,Medium
+Bukidnon,2023,27.2,7.27,Medium
+Bulacan,2018,9.9,5.37,Medium
+Bulacan,2021,12.9,4.34,Low
+Bulacan,2023,9.8,4.97,Low
+Cagayan,2018,15.4,6.0,Medium
+Cagayan,2021,18.8,5.72,Medium
+Cagayan,2023,16.2,6.52,Medium
+Camarines Norte,2018,21.3,8.02,Medium
+Camarines Norte,2021,19.6,6.06,Medium
+Camarines Norte,2023,19.4,7.18,Medium
+Camarines Sur,2018,24.0,10.87,High
+Camarines Sur,2021,26.1,9.15,Medium
+Camarines Sur,2023,23.7,8.23,Medium
+Camiguin,2018,35.9,11.01,High
+Camiguin,2021,37.2,10.51,High
+Camiguin,2023,34.7,10.19,High
+Capiz,2018,16.5,4.63,Low
+Capiz,2021,16.0,4.73,Low
+Capiz,2023,11.3,5.85,Medium
+Catanduanes,2018,25.7,7.28,Medium
+Catanduanes,2021,26.5,8.87,Medium
+Catanduanes,2023,23.5,7.84,Medium
+Cavite,2018,28.8,8.31,Medium
+Cavite,2021,33.9,10.47,High
+Cavite,2023,24.7,8.07,Medium
+Cebu,2018,5.9,4.47,Low
+Cebu,2021,7.7,4.1,Low
+Cebu,2023,6.6,4.65,Low
+Compostela Valley,2018,27.5,8.28,Medium
+Compostela Valley,2021,30.6,8.71,Medium
+Compostela Valley,2023,30.9,9.63,Medium
+Cotabato,2018,9.9,5.42,Medium
+Cotabato,2021,17.0,7.07,Medium
+Cotabato,2023,8.5,3.99,Low
+Davao del Norte,2018,9.5,4.02,Low
+Davao del Norte,2021,10.3,5.38,Medium
+Davao del Norte,2023,5.2,3.6,Low
+Davao del Sur,2018,38.1,10.06,High
+Davao del Sur,2021,44.6,11.31,High
+Davao del Sur,2023,44.4,11.12,High
+Davao Occidental,2018,43.0,12.06,High
+Davao Occidental,2021,47.8,11.86,High
+Davao Occidental,2023,44.4,12.27,High
+Davao Oriental,2018,35.9,10.76,High
+Davao Oriental,2021,39.6,10.74,High
+Davao Oriental,2023,36.4,10.21,High
+Dinagat Islands,2018,17.4,6.85,Medium
+Dinagat Islands,2021,21.6,6.25,Medium
+Dinagat Islands,2023,19.4,5.2,Medium
+Eastern Samar,2018,8.7,4.88,Low
+Eastern Samar,2021,11.3,4.49,Low
+Eastern Samar,2023,7.6,3.78,Low
+Guimaras,2018,31.5,10.11,High
+Guimaras,2021,34.9,9.62,Medium
+Guimaras,2023,32.7,9.94,Medium
+Ifugao,2018,23.8,8.25,Medium
+Ifugao,2021,23.4,7.19,Medium
+Ifugao,2023,22.7,7.99,Medium
+Ilocos Norte,2018,9.9,4.76,Low
+Ilocos Norte,2021,13.8,5.06,Medium
+Ilocos Norte,2023,9.7,4.47,Low
+Ilocos Sur,2018,24.5,8.76,Medium
+Ilocos Sur,2021,28.0,9.32,Medium
+Ilocos Sur,2023,25.8,8.19,Medium
+Iloilo,2018,7.4,3.88,Low
+Iloilo,2021,8.9,4.35,Low
+Iloilo,2023,5.5,4.19,Low
+Isabela,2018,40.1,13.01,High
+Isabela,2021,41.9,10.74,High
+Isabela,2023,42.1,12.4,High
+Kalinga,2018,16.3,6.59,Medium
+Kalinga,2021,17.3,5.6,Medium
+Kalinga,2023,14.5,5.14,Medium
+La Union,2018,33.0,9.63,Medium
+La Union,2021,32.3,9.34,Medium
+La Union,2023,31.1,8.9,Medium
+Laguna,2018,16.2,6.27,Medium
+Laguna,2021,19.8,6.46,Medium
+Laguna,2023,15.8,6.15,Medium
+Lanao del Norte,2018,23.6,6.57,Medium
+Lanao del Norte,2021,26.7,8.21,Medium
+Lanao del Norte,2023,25.3,9.24,Medium
+Lanao del Sur,2018,28.2,8.57,Medium
+Lanao del Sur,2021,28.8,8.04,Medium
+Lanao del Sur,2023,25.8,7.95,Medium
+Leyte,2018,12.9,4.67,Low
+Leyte,2021,15.2,7.06,Medium
+Leyte,2023,11.2,5.29,Medium
+Maguindanao,2018,44.8,12.04,High
+Maguindanao,2021,46.1,12.66,High
+Maguindanao,2023,42.9,11.33,High
+Marinduque,2018,36.0,10.83,High
+Marinduque,2021,40.2,12.11,High
+Marinduque,2023,38.2,10.3,High
+Masbate,2018,43.9,12.3,High
+Masbate,2021,47.9,12.38,High
+Masbate,2023,40.3,10.89,High
+Misamis Occidental,2018,37.6,10.35,High
+Misamis Occidental,2021,41.7,11.78,High
+Misamis Occidental,2023,40.3,12.87,High
+Misamis Oriental,2018,30.3,8.71,Medium
+Misamis Oriental,2021,29.6,9.4,Medium
+Misamis Oriental,2023,25.9,9.67,Medium
+Mountain Province,2018,43.6,11.73,High
+Mountain Province,2021,41.3,12.67,High
+Mountain Province,2023,40.7,12.44,High
+Negros Occidental,2018,6.1,3.37,Low
+Negros Occidental,2021,10.5,4.86,Low
+Negros Occidental,2023,6.9,4.51,Low
+Negros Oriental,2018,11.2,4.86,Low
+Negros Oriental,2021,15.0,6.22,Medium
+Negros Oriental,2023,12.9,4.44,Low
+Northern Samar,2018,4.5,4.51,Low
+Northern Samar,2021,9.3,3.95,Low
+Northern Samar,2023,8.1,4.38,Low
+Nueva Ecija,2018,19.8,6.91,Medium
+Nueva Ecija,2021,23.1,8.99,Medium
+Nueva Ecija,2023,16.6,6.94,Medium
+Nueva Vizcaya,2018,21.5,8.33,Medium
+Nueva Vizcaya,2021,21.1,7.69,Medium
+Nueva Vizcaya,2023,21.1,5.74,Medium
+Occidental Mindoro,2018,14.1,3.97,Low
+Occidental Mindoro,2021,17.4,6.91,Medium
+Occidental Mindoro,2023,17.1,6.32,Medium
+Oriental Mindoro,2018,40.6,10.33,High
+Oriental Mindoro,2021,37.6,10.73,High
+Oriental Mindoro,2023,37.7,10.77,High
+Palawan,2018,16.2,5.99,Medium
+Palawan,2021,19.3,7.28,Medium
+Palawan,2023,18.8,5.89,Medium
+Pampanga,2018,15.5,5.06,Medium
+Pampanga,2021,18.1,7.26,Medium
+Pampanga,2023,13.8,5.93,Medium
+Pangasinan,2018,25.9,7.57,Medium
+Pangasinan,2021,28.5,7.95,Medium
+Pangasinan,2023,24.9,7.01,Medium
+Quezon,2018,13.6,5.52,Medium
+Quezon,2021,11.6,5.22,Medium
+Quezon,2023,9.5,4.41,Low
+Quirino,2018,38.0,11.47,High
+Quirino,2021,38.3,10.46,High
+Quirino,2023,35.7,8.51,Medium
+Rizal,2018,5.7,4.85,Low
+Rizal,2021,12.4,5.04,Medium
+Rizal,2023,7.8,4.48,Low
+Romblon,2018,49.1,14.2,High
+Romblon,2021,46.3,11.92,High
+Romblon,2023,41.1,11.7,High
+Samar,2018,34.8,9.01,Medium
+Samar,2021,36.9,9.76,Medium
+Samar,2023,37.4,11.44,High
+Sarangani,2018,12.9,6.53,Medium
+Sarangani,2021,15.1,5.13,Medium
+Sarangani,2023,14.2,6.06,Medium
+Siquijor,2018,3.7,3.15,Low
+Siquijor,2021,5.9,2.69,Low
+Siquijor,2023,5.6,5.26,Medium
+Sorsogon,2018,35.5,10.76,High
+Sorsogon,2021,38.6,10.61,High
+Sorsogon,2023,35.7,9.67,Medium
+South Cotabato,2018,33.3,9.17,Medium
+South Cotabato,2021,35.7,10.31,High
+South Cotabato,2023,31.9,8.8,Medium
+Southern Leyte,2018,33.3,10.43,High
+Southern Leyte,2021,36.9,9.84,Medium
+Southern Leyte,2023,33.3,10.43,High
+Sultan Kudarat,2018,33.3,10.27,High
+Sultan Kudarat,2021,36.9,11.06,High
+Sultan Kudarat,2023,33.7,8.47,Medium
+Sulu,2018,5.5,3.75,Low
+Sulu,2021,10.4,4.05,Low
+Sulu,2023,7.9,2.91,Low
+Surigao del Norte,2018,19.2,5.76,Medium
+Surigao del Norte,2021,20.4,7.02,Medium
+Surigao del Norte,2023,17.0,5.94,Medium
+Surigao del Sur,2018,11.1,4.49,Low
+Surigao del Sur,2021,12.9,4.43,Low
+Surigao del Sur,2023,9.4,5.73,Medium
+Tarlac,2018,35.8,9.74,Medium
+Tarlac,2021,42.4,11.66,High
+Tarlac,2023,39.1,10.61,High
+Tawi-Tawi,2018,30.1,8.99,Medium
+Tawi-Tawi,2021,33.7,10.11,High
+Tawi-Tawi,2023,29.4,8.65,Medium
+Zambales,2018,17.5,6.0,Medium
+Zambales,2021,20.8,6.75,Medium
+Zambales,2023,17.7,8.05,Medium
+Zamboanga del Norte,2018,8.8,4.19,Low
+Zamboanga del Norte,2021,11.3,4.67,Low
+Zamboanga del Norte,2023,3.5,2.46,Low
+Zamboanga del Sur,2018,14.6,5.44,Medium
+Zamboanga del Sur,2021,19.5,8.12,Medium
+Zamboanga del Sur,2023,16.9,6.05,Medium
+Zamboanga Sibugay,2018,19.3,4.97,Low
+Zamboanga Sibugay,2021,20.4,7.6,Medium
+Zamboanga Sibugay,2023,14.8,6.67,Medium
