@@ -103,4 +103,8 @@ st.dataframe(df_selection, use_container_width=True)
 
 st.divider()
 st.caption("Data Source: Philippine Statistics Authority (PSA) - OpenSTAT https://openstat.psa.gov.ph.")
+
+st.caption("Table 11. Number of Registered Live Births by Age and Usual Residence of Mother, Philippines: 2021")
+st.caption("https://psa.gov.ph/system/files/vsd/2021%20Births_Statistical%20Tables.xlsx")
 st.caption("Data points correspond to the official PSA Triennial Poverty Release schedule (2018, 2021, 2023).")
+st.caption("https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1E__FY/0011E3DF010.px/?rxid=cd48c864-3f04-4554-9ee4-c5147cbfdc1a")
