@@ -28,7 +28,9 @@ all_years = sorted(df["Year"].unique())
 selected_year = st.sidebar.multiselect("Select Year:", all_years, default=all_years)
 
 all_locations = sorted(df["Location"].unique())
-selected_locations = st.sidebar.multiselect("Select Province/City:", all_locations, default=all_locations[:10]) # Default to first 10
+
+# --- CHANGED LINE BELOW: Removed [:10] so it defaults to ALL locations ---
+selected_locations = st.sidebar.multiselect("Select Province/City:", all_locations, default=all_locations) 
 
 mask = (df["Year"].isin(selected_year)) & (df["Risk_Level"].isin(selected_risks))
 
@@ -66,7 +68,7 @@ fig_scatter = px.scatter(
     title="Poverty Incidence vs. Teenage Birth Rate (Colored by Risk)",
     labels={"Poverty_Incidence": "Poverty Incidence (%)", "Teenage_Birth_Rate": "Teenage Birth Rate (%)"},
     template="plotly_white",
-    color_discrete_map={"Low": "green", "Medium": "orange", "High": "red"} # Optional: nice colors
+    color_discrete_map={"Low": "green", "Medium": "orange", "High": "red"} 
 )
 st.plotly_chart(fig_scatter, use_container_width=True)
 
