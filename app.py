@@ -18,24 +18,36 @@ except FileNotFoundError:
 st.sidebar.header("Filter Options")
 st.sidebar.write("Customize your view below:")
 
+if "Risk_Level" in df.columns:
+    all_risks = sorted(df["Risk_Level"].unique())
+    selected_risks = st.sidebar.multiselect("Select Risk Level:", all_risks, default=all_risks)
+else:
+    selected_risks = [] 
+
 all_years = sorted(df["Year"].unique())
 selected_year = st.sidebar.multiselect("Select Year:", all_years, default=all_years)
 
 all_locations = sorted(df["Location"].unique())
 selected_locations = st.sidebar.multiselect("Select Province/City:", all_locations, default=all_locations[:10]) # Default to first 10
 
-if not selected_locations:
-    df_selection = df.query("Year == @selected_year")
-else:
-    df_selection = df.query("Year == @selected_year & Location == @selected_locations")
+mask = (df["Year"].isin(selected_year)) & (df["Risk_Level"].isin(selected_risks))
+
+if selected_locations:
+    mask = mask & (df["Location"].isin(selected_locations))
+
+df_selection = df[mask]
 
 st.title("🇵🇭 Teenage Pregnancy & Poverty Correlation")
 st.markdown("### Topic 12: Correlating Regional Poverty Index with Teenage Birth Rates")
 st.markdown("This dashboard analyzes the relationship between socioeconomic factors and adolescent health outcomes.")
 
 col1, col2, col3 = st.columns(3)
-avg_poverty = df_selection["Poverty_Incidence"].mean()
-avg_preg = df_selection["Teenage_Birth_Rate"].mean()
+if not df_selection.empty:
+    avg_poverty = df_selection["Poverty_Incidence"].mean()
+    avg_preg = df_selection["Teenage_Birth_Rate"].mean()
+else:
+    avg_poverty = 0
+    avg_preg = 0
 
 col1.metric("Avg. Poverty Incidence", f"{avg_poverty:.1f}%", "Selected Data")
 col2.metric("Avg. Teenage Birth Rate", f"{avg_preg:.1f}%", "Prototype Estimate")
@@ -46,14 +58,15 @@ st.divider()
 st.subheader("1. Correlation Analysis: Does Poverty Drive Pregnancy?")
 fig_scatter = px.scatter(
     df_selection,
-    x="Poverty_Index" if "Poverty_Index" in df_selection.columns else "Poverty_Incidence",
+    x="Poverty_Incidence",
     y="Teenage_Birth_Rate",
-    color="Year",
+    color="Risk_Level", 
     size="Poverty_Incidence",
     hover_name="Location",
-    title="Poverty Incidence vs. Teenage Birth Rate",
+    title="Poverty Incidence vs. Teenage Birth Rate (Colored by Risk)",
     labels={"Poverty_Incidence": "Poverty Incidence (%)", "Teenage_Birth_Rate": "Teenage Birth Rate (%)"},
-    template="plotly_white"
+    template="plotly_white",
+    color_discrete_map={"Low": "green", "Medium": "orange", "High": "red"} # Optional: nice colors
 )
 st.plotly_chart(fig_scatter, use_container_width=True)
 
@@ -62,9 +75,10 @@ fig_bar = px.bar(
     df_selection,
     x="Location",
     y="Teenage_Birth_Rate",
-    color="Poverty_Incidence",
-    title="Teenage Birth Rates by Province (Colored by Poverty Level)",
-    template="plotly_white"
+    color="Risk_Level", 
+    title="Teenage Birth Rates by Province (Colored by Risk Level)",
+    template="plotly_white",
+    color_discrete_map={"Low": "green", "Medium": "orange", "High": "red"}
 )
 st.plotly_chart(fig_bar, use_container_width=True)
 
@@ -80,6 +94,10 @@ fig_line = px.line(
     template="plotly_white"
 )
 st.plotly_chart(fig_line, use_container_width=True)
+
+st.divider()
+st.subheader("4. Raw Data Table")
+st.dataframe(df_selection, use_container_width=True)
 
 st.divider()
 st.caption("Data Source: Philippine Statistics Authority (PSA) - OpenSTAT https://openstat.psa.gov.ph | Note: Pregnancy data is simulated for prototype demonstration.")
