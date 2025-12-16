@@ -101,7 +101,7 @@ st.divider()
 st.subheader("4. Raw Data Table")
 st.dataframe(df_selection, use_container_width=True)
 
-st.divider()
+st.divider() 
 st.caption("Data Source: Philippine Statistics Authority (PSA) - OpenSTAT https://openstat.psa.gov.ph.")
 
 st.caption("Table 11. Number of Registered Live Births by Age and Usual Residence of Mother, Philippines: 2021")
