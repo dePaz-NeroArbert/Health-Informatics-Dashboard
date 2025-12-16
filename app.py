@@ -102,5 +102,5 @@ st.subheader("4. Raw Data Table")
 st.dataframe(df_selection, use_container_width=True)
 
 st.divider()
-st.caption("Data Source: Philippine Statistics Authority (PSA) - OpenSTAT https://openstat.psa.gov.ph | Note: Pregnancy data is simulated for prototype demonstration.")
+st.caption("Data Source: Philippine Statistics Authority (PSA) - OpenSTAT https://openstat.psa.gov.ph.")
 st.caption("Data points correspond to the official PSA Triennial Poverty Release schedule (2018, 2021, 2023).")
