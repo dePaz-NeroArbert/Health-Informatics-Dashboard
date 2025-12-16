@@ -29,7 +29,6 @@ selected_year = st.sidebar.multiselect("Select Year:", all_years, default=all_ye
 
 all_locations = sorted(df["Location"].unique())
 
-# --- CHANGED LINE BELOW: Removed [:10] so it defaults to ALL locations ---
 selected_locations = st.sidebar.multiselect("Select Province/City:", all_locations, default=all_locations) 
 
 mask = (df["Year"].isin(selected_year)) & (df["Risk_Level"].isin(selected_risks))
